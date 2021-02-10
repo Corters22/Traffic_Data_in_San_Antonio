@@ -1,0 +1,9 @@
+# Accident Data in Texas - Project 1
+
+#### Summary
+
+For this project we came across a dataset that included car accidents from 2016 to Dec 2020 in all fifty states. Due to the size of the dataset csv and time constraints of our presentation, we decided to only study accident patterns in Texas, specifically in San Antonio. Our analysis answers the following questions, 1) Which city has the lowest and highest amount of accidents? 2) What time of day do more accidents occur in San Antonio? 3) What is the best weather condition to drive in San Antonio?
+
+#### Sources
+
+You can find the original data file through Kaggle.com. Here is the link to the exact dataset. [US Accidents (4.2 million records)] (https://www.kaggle.com/sobhanmoosavi/us-accidents) Per the original dataset, we are to give credit to the following papers: 1) Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, arXiv preprint arXiv:1906.05409 (2019).2) Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. “Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights.” In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
