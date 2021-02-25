@@ -11,40 +11,40 @@ You can find the original data file through Kaggle.com. Here is the link to the 
 
 ### Table of Contents
 **I. Presentation**  
-**A. Texas Traffic Accident Patterns in 2018.pptx** - PowerPoint presentation for data analysis.  
+  **A. Texas Traffic Accident Patterns in 2018.pptx** - PowerPoint presentation for data analysis.  
 
 **II. Question_1 - Where in San Antonio?**  
-**A. Images**  
-    1. acc_large_bar.png - Bar Chart showing number of accidents in zip codes with larger populations
-    2. acc_medium_bar.png - Bar Chart showing number of accidents in zip codes with medium sized populations.
-    3. acc_per_zip_bar.png - Bar Chart showing number of accidents in all zip codes.
-    4. acc_side_bar.png - Bar Chart showing number of accidents in different sides of town.
-    5. acc_small_bar.png - Bar Chart showing number of accidents in zip codes with smaller populations.
+  **A. Images**  
+    1. acc_large_bar.png - Bar Chart showing number of accidents in zip codes with larger populations.  
+    2. acc_medium_bar.png - Bar Chart showing number of accidents in zip codes with medium sized populations.  
+    3. acc_per_zip_bar.png - Bar Chart showing number of accidents in all zip codes.  
+    4. acc_side_bar.png - Bar Chart showing number of accidents in different sides of town.  
+    5. acc_small_bar.png - Bar Chart showing number of accidents in zip codes with smaller populations.  
     6. acc_zipsize_bar.png - Bar Chart showing number of total accidents in each size of zip codes.  
-**B. sa_zipcode_analysis.ipynb**  
+  **B. sa_zipcode_analysis.ipynb**  
     1.Jupyter notebook with Python code to analyze data based on location. Charts above come from this notebook. It starts with the cleaned csv extrapolated from the orginal dataset. (**hint** You will need a GoogleMaps API and Census API)  
 
 **III. Question_2 - Weather Condition in San Antonio**  
-**A. Images**  
-    1. accident_per_precip_bar.png - Bar Chart showing number of accidents in different precipitation levels.
-    2. accident_per_temp_bar.png - Bar Chart showing number of accidents in different temperatures.
-    3. accident_per_visibility_line.png - Line Chart showing number of accidents in different visibility distances.
+  **A. Images**  
+    1. accident_per_precip_bar.png - Bar Chart showing number of accidents in different precipitation levels.  
+    2. accident_per_temp_bar.png - Bar Chart showing number of accidents in different temperatures.  
+    3. accident_per_visibility_line.png - Line Chart showing number of accidents in different visibility distances.  
     4. accident_per_weather_bar.png - Bar Chart showing number of accidents in each type of weather condition.   
-**B. SA_weather_conditions.ipnyb**
+  **B. SA_weather_conditions.ipnyb**
     1. Jupyter notebook with Python code to analyze data based on weather. Charts above come from this notebook. It starts with the cleaned csv extrapolated from the orginal dataset.   
 
 **IV. Question_3 - Date, time of accidents in San Antonio**  
-**A. Images**  
+  **A. Images**  
     1. month.png - Bar Chart showing total number of accidents in each month.  
-    2. number of accidents.png - Bar Chart showing total number of accidents based on the week of the month.
+    2. number of accidents.png - Bar Chart showing total number of accidents based on the week of the month.  
     3. times of day.png - Bar Chart showing total number of accidents based on time of day.  
-**B. SA_time_traffic.ipynb**
+  **B. SA_time_traffic.ipynb**
     1. Jupyter notebook with Python code to analyze data based on date and time. Charts above come from this notebook. It starts with the cleaned csv extrapolated from the orginal dataset.   
 
 **V. Data Clean up**  
-**A. cleaning_csv.ipynb**  
+  **A. cleaning_csv.ipynb**  
     1. Jupyter notebook with Python code to extrapolate accidents that occurred in Texas in 2018.  
-**B. cleaned_2018_texas_accidents.csv**  
+  **B. cleaned_2018_texas_accidents.csv**  
     1. CSV file with cleaned data - all other notebooks are run from this CSV
 
 ### Conclusion
