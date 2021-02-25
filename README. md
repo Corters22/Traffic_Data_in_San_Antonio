@@ -22,6 +22,7 @@ You can find the original data file through Kaggle.com. Here is the link to the 
           6. acc_zipsize_bar.png - Bar Chart showing number of total accidents in each size of zip codes.
         B. sa_zipcode_analysis.ipynb
           1.Jupyter notebook with Python code to analyze data based on location. Charts above come from this notebook. It starts with the cleaned csv extrapolated from the orginal dataset. 
+                (**hint** You will need a GoogleMaps API and Census API)
 #### II. Question_2 - Weather Condition in San Antonio
         A. Images
           1. accident_per_precip_bar.png - Bar Chart showing number of accidents in different precipitation levels.
