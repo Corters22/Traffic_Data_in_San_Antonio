@@ -21,7 +21,7 @@ You can find the original data file through Kaggle.com. Here is the link to the 
           5. acc_small_bar.png - Bar Chart showing number of accidents in zip codes with smaller populations.
           6. acc_zipsize_bar.png - Bar Chart showing number of total accidents in each size of zip codes.
         B. sa_zipcode_analysis.ipynb
-          1.Jupyter notebook with Python code to analyze data based on location. Charts above come from this notebook. It starts with the cleaned csv extrapolated from the        orginal dataset. 
+          1.Jupyter notebook with Python code to analyze data based on location. Charts above come from this notebook. It starts with the cleaned csv extrapolated from the orginal dataset. 
 #### II. Question_2 - Weather Condition in San Antonio
         A. Images
           1. accident_per_precip_bar.png - Bar Chart showing number of accidents in different precipitation levels.
@@ -29,7 +29,7 @@ You can find the original data file through Kaggle.com. Here is the link to the 
           3. accident_per_visibility_line.png - Line Chart showing number of accidents in different visibility distances.
           4. accident_per_weather_bar.png - Bar Chart showing number of accidents in each type of weather condition. 
         B. SA_weather_conditions.ipnyb
-          1. Jupyter notebook with Python code to analyze data based on weather. Charts above come from this notebook. It starts with the cleaned csv extrapolated from the       orginal dataset. 
+          1. Jupyter notebook with Python code to analyze data based on weather. Charts above come from this notebook. It starts with the cleaned csv extrapolated from the orginal dataset. 
 #### III. Question_3 - Date, time of accidents in San Antonio
         A. Images
           1. month.png - Bar Chart showing total number of accidents in each month.
