@@ -1,4 +1,4 @@
-![Pic of minor accident](https://github.com/Corters22/Traffic_Data_in_Texas_Project1/blob/main/fender-bender-costarica.jpg)
+![Pic of minor accident](fender-bender-costarica.jpg)
 
 # What is the best environment in San Antonio to reduce the chances of getting in an accident?
 
